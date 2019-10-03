@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ChatbotDataModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CustomersTbl">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="contact" Type="Int64" Nullable="false" />
+    <Property Name="region" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="InterestsTbls" Relationship="Self.FK_InterestsTbl_CustomersTbl" FromRole="CustomersTbls" ToRole="InterestsTbls" />
+    <NavigationProperty Name="OrdersTbls" Relationship="Self.FK_OrdersTbl_CustomersTbl" FromRole="CustomersTbls" ToRole="OrdersTbls" />
+  </EntityType>
+  <EntityType Name="InterestsTbl">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="customer_id" Type="Int32" Nullable="false" />
+    <Property Name="monitor_id" Type="Int32" />
+    <Property Name="timestamp" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="CustomersTbl" Relationship="Self.FK_InterestsTbl_CustomersTbl" FromRole="InterestsTbls" ToRole="CustomersTbls" />
+    <NavigationProperty Name="MonitorsTbl" Relationship="Self.FK_InterestsTbl_MonitorsTbl" FromRole="InterestsTbls" ToRole="MonitorsTbls" />
+  </EntityType>
+  <EntityType Name="MonitorsTbl">
+    <Key>
+      <PropertyRef Name="monitor_id" />
+    </Key>
+    <Property Name="monitor_id" Type="Int32" Nullable="false" />
+    <Property Name="monitor_name" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="InterestsTbls" Relationship="Self.FK_InterestsTbl_MonitorsTbl" FromRole="MonitorsTbls" ToRole="InterestsTbls" />
+    <NavigationProperty Name="OptionsTbls" Relationship="Self.FK__OptionsTb__monit__282DF8C2" FromRole="MonitorsTbls" ToRole="OptionsTbls" />
+    <NavigationProperty Name="OrdersTbls" Relationship="Self.FK_OrdersTbl_MonitorsTbl" FromRole="MonitorsTbls" ToRole="OrdersTbls" />
+  </EntityType>
+  <EntityType Name="OptionsTbl">
+    <Key>
+      <PropertyRef Name="option_id" />
+      <PropertyRef Name="link_id" />
+      <PropertyRef Name="monitor_id" />
+      <PropertyRef Name="question_id" />
+    </Key>
+    <Property Name="option_id" Type="Int32" Nullable="false" />
+    <Property Name="option" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="link_id" Type="Int32" Nullable="false" />
+    <Property Name="monitor_id" Type="Int32" Nullable="false" />
+    <Property Name="question_id" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="MonitorsTbl" Relationship="Self.FK__OptionsTb__monit__282DF8C2" FromRole="OptionsTbls" ToRole="MonitorsTbls" />
+    <NavigationProperty Name="QuestionsTbl" Relationship="Self.FK__OptionsTb__quest__2739D489" FromRole="OptionsTbls" ToRole="QuestionsTbls" />
+  </EntityType>
+  <EntityType Name="OrdersTbl">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="customer_id" Type="Int32" Nullable="false" />
+    <Property Name="monitor_id" Type="Int32" />
+    <Property Name="timestamp" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="CustomersTbl" Relationship="Self.FK_OrdersTbl_CustomersTbl" FromRole="OrdersTbls" ToRole="CustomersTbls" />
+    <NavigationProperty Name="MonitorsTbl" Relationship="Self.FK_OrdersTbl_MonitorsTbl" FromRole="OrdersTbls" ToRole="MonitorsTbls" />
+  </EntityType>
+  <EntityType Name="QuestionsTbl">
+    <Key>
+      <PropertyRef Name="question_id" />
+    </Key>
+    <Property Name="question_id" Type="Int32" Nullable="false" />
+    <Property Name="question" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="OptionsTbls" Relationship="Self.FK__OptionsTb__quest__2739D489" FromRole="QuestionsTbls" ToRole="OptionsTbls" />
+  </EntityType>
+  <Association Name="FK_InterestsTbl_CustomersTbl">
+    <End Role="CustomersTbls" Type="Self.CustomersTbl" Multiplicity="1" />
+    <End Role="InterestsTbls" Type="Self.InterestsTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CustomersTbls">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="InterestsTbls">
+        <PropertyRef Name="customer_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OrdersTbl_CustomersTbl">
+    <End Role="CustomersTbls" Type="Self.CustomersTbl" Multiplicity="1" />
+    <End Role="OrdersTbls" Type="Self.OrdersTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CustomersTbls">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="OrdersTbls">
+        <PropertyRef Name="customer_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_InterestsTbl_MonitorsTbl">
+    <End Role="MonitorsTbls" Type="Self.MonitorsTbl" Multiplicity="0..1" />
+    <End Role="InterestsTbls" Type="Self.InterestsTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MonitorsTbls">
+        <PropertyRef Name="monitor_id" />
+      </Principal>
+      <Dependent Role="InterestsTbls">
+        <PropertyRef Name="monitor_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__OptionsTb__monit__282DF8C2">
+    <End Role="MonitorsTbls" Type="Self.MonitorsTbl" Multiplicity="1" />
+    <End Role="OptionsTbls" Type="Self.OptionsTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MonitorsTbls">
+        <PropertyRef Name="monitor_id" />
+      </Principal>
+      <Dependent Role="OptionsTbls">
+        <PropertyRef Name="monitor_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OrdersTbl_MonitorsTbl">
+    <End Role="MonitorsTbls" Type="Self.MonitorsTbl" Multiplicity="0..1" />
+    <End Role="OrdersTbls" Type="Self.OrdersTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MonitorsTbls">
+        <PropertyRef Name="monitor_id" />
+      </Principal>
+      <Dependent Role="OrdersTbls">
+        <PropertyRef Name="monitor_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__OptionsTb__quest__2739D489">
+    <End Role="QuestionsTbls" Type="Self.QuestionsTbl" Multiplicity="1" />
+    <End Role="OptionsTbls" Type="Self.OptionsTbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="QuestionsTbls">
+        <PropertyRef Name="question_id" />
+      </Principal>
+      <Dependent Role="OptionsTbls">
+        <PropertyRef Name="question_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ChatbotEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CustomersTbls" EntityType="Self.CustomersTbl" />
+    <EntitySet Name="InterestsTbls" EntityType="Self.InterestsTbl" />
+    <EntitySet Name="MonitorsTbls" EntityType="Self.MonitorsTbl" />
+    <EntitySet Name="OptionsTbls" EntityType="Self.OptionsTbl" />
+    <EntitySet Name="OrdersTbls" EntityType="Self.OrdersTbl" />
+    <EntitySet Name="QuestionsTbls" EntityType="Self.QuestionsTbl" />
+    <AssociationSet Name="FK_InterestsTbl_CustomersTbl" Association="Self.FK_InterestsTbl_CustomersTbl">
+      <End Role="CustomersTbls" EntitySet="CustomersTbls" />
+      <End Role="InterestsTbls" EntitySet="InterestsTbls" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OrdersTbl_CustomersTbl" Association="Self.FK_OrdersTbl_CustomersTbl">
+      <End Role="CustomersTbls" EntitySet="CustomersTbls" />
+      <End Role="OrdersTbls" EntitySet="OrdersTbls" />
+    </AssociationSet>
+    <AssociationSet Name="FK_InterestsTbl_MonitorsTbl" Association="Self.FK_InterestsTbl_MonitorsTbl">
+      <End Role="MonitorsTbls" EntitySet="MonitorsTbls" />
+      <End Role="InterestsTbls" EntitySet="InterestsTbls" />
+    </AssociationSet>
+    <AssociationSet Name="FK__OptionsTb__monit__282DF8C2" Association="Self.FK__OptionsTb__monit__282DF8C2">
+      <End Role="MonitorsTbls" EntitySet="MonitorsTbls" />
+      <End Role="OptionsTbls" EntitySet="OptionsTbls" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OrdersTbl_MonitorsTbl" Association="Self.FK_OrdersTbl_MonitorsTbl">
+      <End Role="MonitorsTbls" EntitySet="MonitorsTbls" />
+      <End Role="OrdersTbls" EntitySet="OrdersTbls" />
+    </AssociationSet>
+    <AssociationSet Name="FK__OptionsTb__quest__2739D489" Association="Self.FK__OptionsTb__quest__2739D489">
+      <End Role="QuestionsTbls" EntitySet="QuestionsTbls" />
+      <End Role="OptionsTbls" EntitySet="OptionsTbls" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

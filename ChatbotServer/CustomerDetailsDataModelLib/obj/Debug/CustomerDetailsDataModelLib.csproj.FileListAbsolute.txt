@@ -1,0 +1,5 @@
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotServer\CustomerDetailsDataModelLib\bin\Debug\CustomerDetailsDataModelLib.dll
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotServer\CustomerDetailsDataModelLib\bin\Debug\CustomerDetailsDataModelLib.pdb
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotServer\CustomerDetailsDataModelLib\obj\Debug\CustomerDetailsDataModelLib.csprojAssemblyReference.cache
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotServer\CustomerDetailsDataModelLib\obj\Debug\CustomerDetailsDataModelLib.dll
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotServer\CustomerDetailsDataModelLib\obj\Debug\CustomerDetailsDataModelLib.pdb

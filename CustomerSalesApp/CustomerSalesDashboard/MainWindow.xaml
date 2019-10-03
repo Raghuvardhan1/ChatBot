@@ -1,0 +1,84 @@
+﻿<Window x:Class="CustomerSalesDashboard.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="clr-namespace:CustomerSalesViewModelLib;assembly=CustomerSalesViewModelLib"
+        xmlns:local="clr-namespace:CustomerSalesDashboard"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="900" Width="1600">
+    <Window.DataContext>
+        <vm:CustomerSalesViewModel/>
+        
+    </Window.DataContext>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0"
+               Grid.Column="0"
+               Content="Select a Region:"
+               Padding="5"
+               VerticalAlignment="Center"
+               HorizontalAlignment="Center"/>
+        <ComboBox Grid.Row="0"
+                  Grid.Column="1"
+                  SelectedItem="{Binding Path=Region}"
+                  VerticalAlignment="Center"
+                  HorizontalAlignment="Center"
+                  MinWidth="150">
+            <ComboBox.Items>
+                <ComboBoxItem Content="Asia"/>
+                <ComboBoxItem>Africa</ComboBoxItem>
+                <ComboBoxItem>America</ComboBoxItem>
+                <ComboBoxItem>Australia</ComboBoxItem>
+                <ComboBoxItem>Europe</ComboBoxItem>
+            </ComboBox.Items>
+        </ComboBox>
+        <Label Grid.Row="1"
+               Grid.Column="0"
+               Content="Select start date:"
+               Padding="5"
+               VerticalAlignment="Center"
+               HorizontalAlignment="Center"/>
+        <DatePicker Grid.Row="1"
+                    Grid.Column="1"
+                    SelectedDate="{Binding Path=StartDate}"
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center"/>
+        <Label Grid.Row="2"
+               Grid.Column="0"
+               Content="Select end date:"
+               Padding="5"
+               VerticalAlignment="Center"
+               HorizontalAlignment="Center"/>
+        <DatePicker Grid.Row="2"
+                    Grid.Column="1"
+                    SelectedDate="{Binding Path=EndDate}"
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center"/>
+        <Button Grid.Row="3"
+                Grid.Column="0"
+                Grid.ColumnSpan="2"
+                Content="Get Customer Details"
+                Command="{Binding Path=GetCustomers}"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Center"
+                Padding="5"/>
+        <DataGrid Grid.Row="4"
+                  Grid.Column="0"
+                  Grid.ColumnSpan="2"
+                  AutoGenerateColumns="True"
+                  ItemsSource="{Binding Path=Customers}"
+                  MinColumnWidth="150"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,47 @@
+C:\Users\320067504\source\repos\ChatBot\CustomerDetailsViewModelLib\bin\Debug\CustomerDetailsViewModelLib.dll.config
+C:\Users\320067504\source\repos\ChatBot\CustomerDetailsViewModelLib\bin\Debug\CustomerDetailsViewModelLib.dll
+C:\Users\320067504\source\repos\ChatBot\CustomerDetailsViewModelLib\bin\Debug\CustomerDetailsViewModelLib.pdb
+C:\Users\320067504\source\repos\ChatBot\CustomerDetailsViewModelLib\bin\Debug\CustomesDataModelLib.dll
+C:\Users\320067504\source\repos\ChatBot\CustomerDetailsViewModelLib\bin\Debug\MvvmUtilityLib.dll
+C:\Users\320067504\source\repos\ChatBot\CustomerDetailsViewModelLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\320067504\source\repos\ChatBot\CustomerDetailsViewModelLib\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\320067504\source\repos\ChatBot\CustomerDetailsViewModelLib\bin\Debug\MvvmUtilityLib.pdb
+C:\Users\320067504\source\repos\ChatBot\CustomerDetailsViewModelLib\bin\Debug\CustomesDataModelLib.pdb
+C:\Users\320067504\source\repos\ChatBot\CustomerDetailsViewModelLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\320067504\source\repos\ChatBot\CustomerDetailsViewModelLib\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\320067504\source\repos\ChatBot\CustomerDetailsViewModelLib\obj\Debug\CustomerDetailsViewModelLib.csprojAssemblyReference.cache
+C:\Users\320067504\source\repos\ChatBot\CustomerDetailsViewModelLib\obj\Debug\CustomerDetailsViewModelLib.csproj.CoreCompileInputs.cache
+C:\Users\320067504\source\repos\ChatBot\CustomerDetailsViewModelLib\obj\Debug\CustomerDetailsViewModelLib.csproj.CopyComplete
+C:\Users\320067504\source\repos\ChatBot\CustomerDetailsViewModelLib\obj\Debug\CustomerDetailsViewModelLib.dll
+C:\Users\320067504\source\repos\ChatBot\CustomerDetailsViewModelLib\obj\Debug\CustomerDetailsViewModelLib.pdb
+C:\ChatBotServer2\Chatbot\ChatBot\CustomerDetailsViewModelLib\bin\Debug\CustomerDetailsViewModelLib.dll.config
+C:\ChatBotServer2\Chatbot\ChatBot\CustomerDetailsViewModelLib\bin\Debug\CustomerDetailsViewModelLib.dll
+C:\ChatBotServer2\Chatbot\ChatBot\CustomerDetailsViewModelLib\bin\Debug\CustomerDetailsViewModelLib.pdb
+C:\ChatBotServer2\Chatbot\ChatBot\CustomerDetailsViewModelLib\bin\Debug\CustomesDataModelLib.dll
+C:\ChatBotServer2\Chatbot\ChatBot\CustomerDetailsViewModelLib\bin\Debug\MVVMUtilityLib.dll
+C:\ChatBotServer2\Chatbot\ChatBot\CustomerDetailsViewModelLib\bin\Debug\Newtonsoft.Json.dll
+C:\ChatBotServer2\Chatbot\ChatBot\CustomerDetailsViewModelLib\bin\Debug\System.Net.Http.Formatting.dll
+C:\ChatBotServer2\Chatbot\ChatBot\CustomerDetailsViewModelLib\bin\Debug\MVVMUtilityLib.pdb
+C:\ChatBotServer2\Chatbot\ChatBot\CustomerDetailsViewModelLib\bin\Debug\CustomesDataModelLib.pdb
+C:\ChatBotServer2\Chatbot\ChatBot\CustomerDetailsViewModelLib\bin\Debug\Newtonsoft.Json.xml
+C:\ChatBotServer2\Chatbot\ChatBot\CustomerDetailsViewModelLib\bin\Debug\System.Net.Http.Formatting.xml
+C:\ChatBotServer2\Chatbot\ChatBot\CustomerDetailsViewModelLib\obj\Debug\CustomerDetailsViewModelLib.csprojAssemblyReference.cache
+C:\ChatBotServer2\Chatbot\ChatBot\CustomerDetailsViewModelLib\obj\Debug\CustomerDetailsViewModelLib.csproj.CoreCompileInputs.cache
+C:\ChatBotServer2\Chatbot\ChatBot\CustomerDetailsViewModelLib\obj\Debug\CustomerDetailsViewModelLib.csproj.CopyComplete
+C:\ChatBotServer2\Chatbot\ChatBot\CustomerDetailsViewModelLib\obj\Debug\CustomerDetailsViewModelLib.dll
+C:\ChatBotServer2\Chatbot\ChatBot\CustomerDetailsViewModelLib\obj\Debug\CustomerDetailsViewModelLib.pdb
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\CustomerDetailsViewModelLib\bin\Debug\CustomerDetailsViewModelLib.dll.config
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\CustomerDetailsViewModelLib\bin\Debug\CustomerDetailsViewModelLib.dll
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\CustomerDetailsViewModelLib\bin\Debug\CustomerDetailsViewModelLib.pdb
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\CustomerDetailsViewModelLib\bin\Debug\CustomesDataModelLib.dll
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\CustomerDetailsViewModelLib\bin\Debug\MVVMUtilityLib.dll
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\CustomerDetailsViewModelLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\CustomerDetailsViewModelLib\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\CustomerDetailsViewModelLib\bin\Debug\MVVMUtilityLib.pdb
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\CustomerDetailsViewModelLib\bin\Debug\CustomesDataModelLib.pdb
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\CustomerDetailsViewModelLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\CustomerDetailsViewModelLib\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\CustomerDetailsViewModelLib\obj\Debug\CustomerDetailsViewModelLib.csprojAssemblyReference.cache
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\CustomerDetailsViewModelLib\obj\Debug\CustomerDetailsViewModelLib.csproj.CopyComplete
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\CustomerDetailsViewModelLib\obj\Debug\CustomerDetailsViewModelLib.dll
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\CustomerDetailsViewModelLib\obj\Debug\CustomerDetailsViewModelLib.pdb

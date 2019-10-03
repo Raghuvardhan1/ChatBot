@@ -1,0 +1,11 @@
+C:\Users\320067504\source\repos\ChatBot\CustomesDataModelLib\bin\Debug\CustomesDataModelLib.dll
+C:\Users\320067504\source\repos\ChatBot\CustomesDataModelLib\bin\Debug\CustomesDataModelLib.pdb
+C:\Users\320067504\source\repos\ChatBot\CustomesDataModelLib\obj\Debug\CustomesDataModelLib.csproj.CoreCompileInputs.cache
+C:\Users\320067504\source\repos\ChatBot\CustomesDataModelLib\obj\Debug\CustomesDataModelLib.dll
+C:\Users\320067504\source\repos\ChatBot\CustomesDataModelLib\obj\Debug\CustomesDataModelLib.pdb
+C:\ChatBotServer2\Chatbot\ChatBot\CustomesDataModelLib\bin\Debug\CustomesDataModelLib.dll
+C:\ChatBotServer2\Chatbot\ChatBot\CustomesDataModelLib\bin\Debug\CustomesDataModelLib.pdb
+C:\ChatBotServer2\Chatbot\ChatBot\CustomesDataModelLib\obj\Debug\CustomesDataModelLib.csprojAssemblyReference.cache
+C:\ChatBotServer2\Chatbot\ChatBot\CustomesDataModelLib\obj\Debug\CustomesDataModelLib.csproj.CoreCompileInputs.cache
+C:\ChatBotServer2\Chatbot\ChatBot\CustomesDataModelLib\obj\Debug\CustomesDataModelLib.dll
+C:\ChatBotServer2\Chatbot\ChatBot\CustomesDataModelLib\obj\Debug\CustomesDataModelLib.pdb

@@ -1,0 +1,5 @@
+C:\Users\320069484\OneDrive - Philips\Bootcamp\CustomerSalesApp\MvvmUtilityLib\bin\Debug\MvvmUtilityLib.dll
+C:\Users\320069484\OneDrive - Philips\Bootcamp\CustomerSalesApp\MvvmUtilityLib\bin\Debug\MvvmUtilityLib.pdb
+C:\Users\320069484\OneDrive - Philips\Bootcamp\CustomerSalesApp\MvvmUtilityLib\obj\Debug\MvvmUtilityLib.csprojAssemblyReference.cache
+C:\Users\320069484\OneDrive - Philips\Bootcamp\CustomerSalesApp\MvvmUtilityLib\obj\Debug\MvvmUtilityLib.dll
+C:\Users\320069484\OneDrive - Philips\Bootcamp\CustomerSalesApp\MvvmUtilityLib\obj\Debug\MvvmUtilityLib.pdb

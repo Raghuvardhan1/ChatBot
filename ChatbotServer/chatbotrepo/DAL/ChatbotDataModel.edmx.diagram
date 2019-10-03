@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="456c1b0504744f399316754bdd660a71" Name="Diagram1">
+        <EntityTypeShape EntityType="ChatbotDataModel.CustomersTbl" Width="1.5" PointX="0.75" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ChatbotDataModel.InterestsTbl" Width="1.5" PointX="3" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ChatbotDataModel.MonitorsTbl" Width="1.5" PointX="0.75" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ChatbotDataModel.OptionsTbl" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ChatbotDataModel.OrdersTbl" Width="1.5" PointX="3" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ChatbotDataModel.QuestionsTbl" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
+        <AssociationConnector Association="ChatbotDataModel.FK_InterestsTbl_CustomersTbl" ManuallyRouted="false" />
+        <AssociationConnector Association="ChatbotDataModel.FK_OrdersTbl_CustomersTbl" ManuallyRouted="false" />
+        <AssociationConnector Association="ChatbotDataModel.FK_InterestsTbl_MonitorsTbl" ManuallyRouted="false" />
+        <AssociationConnector Association="ChatbotDataModel.FK__OptionsTb__monit__282DF8C2" ManuallyRouted="false" />
+        <AssociationConnector Association="ChatbotDataModel.FK_OrdersTbl_MonitorsTbl" ManuallyRouted="false" />
+        <AssociationConnector Association="ChatbotDataModel.FK__OptionsTb__quest__2739D489" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

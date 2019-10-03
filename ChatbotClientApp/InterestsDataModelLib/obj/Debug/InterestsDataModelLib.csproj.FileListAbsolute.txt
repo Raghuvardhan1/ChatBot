@@ -1,0 +1,6 @@
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\InterestsDataModelLib\bin\Debug\InterestsDataModelLib.dll
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\InterestsDataModelLib\bin\Debug\InterestsDataModelLib.pdb
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\InterestsDataModelLib\obj\Debug\InterestsDataModelLib.csprojAssemblyReference.cache
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\InterestsDataModelLib\obj\Debug\InterestsDataModelLib.csproj.CoreCompileInputs.cache
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\InterestsDataModelLib\obj\Debug\InterestsDataModelLib.dll
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\InterestsDataModelLib\obj\Debug\InterestsDataModelLib.pdb

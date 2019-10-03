@@ -1,0 +1,10 @@
+C:\Users\320069484\OneDrive - Philips\Bootcamp\CustomerSalesApp\CustomerDetailsDataModelLib\bin\Debug\CustomerDetailsDataModelLib.dll
+C:\Users\320069484\OneDrive - Philips\Bootcamp\CustomerSalesApp\CustomerDetailsDataModelLib\bin\Debug\CustomerDetailsDataModelLib.pdb
+C:\Users\320069484\OneDrive - Philips\Bootcamp\CustomerSalesApp\CustomerDetailsDataModelLib\obj\Debug\CustomerDetailsDataModelLib.csprojAssemblyReference.cache
+C:\Users\320069484\OneDrive - Philips\Bootcamp\CustomerSalesApp\CustomerDetailsDataModelLib\obj\Debug\CustomerDetailsDataModelLib.dll
+C:\Users\320069484\OneDrive - Philips\Bootcamp\CustomerSalesApp\CustomerDetailsDataModelLib\obj\Debug\CustomerDetailsDataModelLib.pdb
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\CustomerSalesApp\CustomerDetailsDataModelLib\bin\Debug\CustomerDetailsDataModelLib.dll
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\CustomerSalesApp\CustomerDetailsDataModelLib\bin\Debug\CustomerDetailsDataModelLib.pdb
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\CustomerSalesApp\CustomerDetailsDataModelLib\obj\Debug\CustomerDetailsDataModelLib.csprojAssemblyReference.cache
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\CustomerSalesApp\CustomerDetailsDataModelLib\obj\Debug\CustomerDetailsDataModelLib.dll
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\CustomerSalesApp\CustomerDetailsDataModelLib\obj\Debug\CustomerDetailsDataModelLib.pdb

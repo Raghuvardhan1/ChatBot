@@ -1,0 +1,89 @@
+C:\Users\320067504\source\repos\ChatBot\ChatBot\bin\Debug\ChatBot.exe.config
+C:\Users\320067504\source\repos\ChatBot\ChatBot\bin\Debug\ChatBot.exe
+C:\Users\320067504\source\repos\ChatBot\ChatBot\bin\Debug\ChatBot.pdb
+C:\Users\320067504\source\repos\ChatBot\ChatBot\bin\Debug\CustomerDetailsViewModelLib.dll
+C:\Users\320067504\source\repos\ChatBot\ChatBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\320067504\source\repos\ChatBot\ChatBot\bin\Debug\CustomesDataModelLib.dll
+C:\Users\320067504\source\repos\ChatBot\ChatBot\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\320067504\source\repos\ChatBot\ChatBot\bin\Debug\MvvmUtilityLib.dll
+C:\Users\320067504\source\repos\ChatBot\ChatBot\bin\Debug\CustomerDetailsViewModelLib.pdb
+C:\Users\320067504\source\repos\ChatBot\ChatBot\bin\Debug\CustomerDetailsViewModelLib.dll.config
+C:\Users\320067504\source\repos\ChatBot\ChatBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\320067504\source\repos\ChatBot\ChatBot\bin\Debug\CustomesDataModelLib.pdb
+C:\Users\320067504\source\repos\ChatBot\ChatBot\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\320067504\source\repos\ChatBot\ChatBot\bin\Debug\MvvmUtilityLib.pdb
+C:\Users\320067504\source\repos\ChatBot\ChatBot\obj\Debug\ChatBot.csprojAssemblyReference.cache
+C:\Users\320067504\source\repos\ChatBot\ChatBot\obj\Debug\CustomerDetailsUserControl.g.cs
+C:\Users\320067504\source\repos\ChatBot\ChatBot\obj\Debug\MainWindow.g.cs
+C:\Users\320067504\source\repos\ChatBot\ChatBot\obj\Debug\App.g.cs
+C:\Users\320067504\source\repos\ChatBot\ChatBot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\320067504\source\repos\ChatBot\ChatBot\obj\Debug\ChatBot_MarkupCompile.cache
+C:\Users\320067504\source\repos\ChatBot\ChatBot\obj\Debug\ChatBot_MarkupCompile.lref
+C:\Users\320067504\source\repos\ChatBot\ChatBot\obj\Debug\CustomerDetailsUserControl.baml
+C:\Users\320067504\source\repos\ChatBot\ChatBot\obj\Debug\MainWindow.baml
+C:\Users\320067504\source\repos\ChatBot\ChatBot\obj\Debug\ChatBot.g.resources
+C:\Users\320067504\source\repos\ChatBot\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+C:\Users\320067504\source\repos\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+C:\Users\320067504\source\repos\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\320067504\source\repos\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.CopyComplete
+C:\Users\320067504\source\repos\ChatBot\ChatBot\obj\Debug\ChatBot.exe
+C:\Users\320067504\source\repos\ChatBot\ChatBot\obj\Debug\ChatBot.pdb
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\bin\Debug\ChatBot.exe.config
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\bin\Debug\ChatBot.exe
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\bin\Debug\ChatBot.pdb
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\bin\Debug\CustomerDetailsViewModelLib.dll
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\bin\Debug\Newtonsoft.Json.dll
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\bin\Debug\CustomesDataModelLib.dll
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\bin\Debug\System.Net.Http.Formatting.dll
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\bin\Debug\MvvmUtilityLib.dll
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\bin\Debug\CustomerDetailsViewModelLib.pdb
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\bin\Debug\CustomerDetailsViewModelLib.dll.config
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\bin\Debug\Newtonsoft.Json.xml
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\bin\Debug\CustomesDataModelLib.pdb
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\bin\Debug\System.Net.Http.Formatting.xml
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\bin\Debug\MvvmUtilityLib.pdb
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\obj\Debug\ChatBot.csprojAssemblyReference.cache
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\obj\Debug\CustomerDetailsUserControl.g.cs
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\obj\Debug\MainWindow.g.cs
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\obj\Debug\App.g.cs
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\obj\Debug\ChatBot_MarkupCompile.cache
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\obj\Debug\ChatBot_MarkupCompile.lref
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\obj\Debug\CustomerDetailsUserControl.baml
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\obj\Debug\MainWindow.baml
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\obj\Debug\ChatBot.g.resources
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.CoreCompileInputs.cache
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.CopyComplete
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\obj\Debug\ChatBot.exe
+C:\ChatBotServer2\Chatbot\ChatBot\ChatBot\obj\Debug\ChatBot.pdb
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\bin\Debug\ChatBot.exe.config
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\bin\Debug\ChatBot.exe
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\bin\Debug\ChatBot.pdb
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\bin\Debug\CustomerDetailsViewModelLib.dll
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\bin\Debug\MVVMUtilityLib.dll
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\bin\Debug\CustomesDataModelLib.dll
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\bin\Debug\MVVMUtilityLib.pdb
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\bin\Debug\CustomerDetailsViewModelLib.pdb
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\bin\Debug\CustomerDetailsViewModelLib.dll.config
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\bin\Debug\CustomesDataModelLib.pdb
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\obj\Debug\ChatBot.csprojAssemblyReference.cache
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\obj\Debug\CustomerDetailsUserControl.g.cs
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\obj\Debug\MainWindow.g.cs
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\obj\Debug\App.g.cs
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\obj\Debug\ChatBot_MarkupCompile.cache
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\obj\Debug\ChatBot_MarkupCompile.lref
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\obj\Debug\CustomerDetailsUserControl.baml
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\obj\Debug\MainWindow.baml
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\obj\Debug\ChatBot.g.resources
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.CopyComplete
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\obj\Debug\ChatBot.exe
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatBot\ChatBot\obj\Debug\ChatBot.pdb

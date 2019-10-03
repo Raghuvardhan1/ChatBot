@@ -1,0 +1,139 @@
+C:\Users\320066605\OneDrive - Philips\Documents\ChatbotClientApp\ChatbotClientApp\bin\Debug\ChatbotClientApp.exe.config
+C:\Users\320066605\OneDrive - Philips\Documents\ChatbotClientApp\ChatbotClientApp\bin\Debug\ChatbotClientApp.exe
+C:\Users\320066605\OneDrive - Philips\Documents\ChatbotClientApp\ChatbotClientApp\bin\Debug\ChatbotClientApp.pdb
+C:\Users\320066605\OneDrive - Philips\Documents\ChatbotClientApp\ChatbotClientApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\320066605\OneDrive - Philips\Documents\ChatbotClientApp\ChatbotClientApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\320066605\OneDrive - Philips\Documents\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.csprojAssemblyReference.cache
+C:\Users\320066605\OneDrive - Philips\Documents\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientWindow.g.cs
+C:\Users\320066605\OneDrive - Philips\Documents\ChatbotClientApp\ChatbotClientApp\obj\Debug\View\QuestionOptionsUi.g.cs
+C:\Users\320066605\OneDrive - Philips\Documents\ChatbotClientApp\ChatbotClientApp\obj\Debug\App.g.cs
+C:\Users\320066605\OneDrive - Philips\Documents\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp_MarkupCompile.cache
+C:\Users\320066605\OneDrive - Philips\Documents\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp_MarkupCompile.lref
+C:\Users\320066605\OneDrive - Philips\Documents\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientWindow.baml
+C:\Users\320066605\OneDrive - Philips\Documents\ChatbotClientApp\ChatbotClientApp\obj\Debug\View\QuestionOptionsUi.baml
+C:\Users\320066605\OneDrive - Philips\Documents\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.g.resources
+C:\Users\320066605\OneDrive - Philips\Documents\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.Properties.Resources.resources
+C:\Users\320066605\OneDrive - Philips\Documents\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.csproj.GenerateResource.cache
+C:\Users\320066605\OneDrive - Philips\Documents\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.csproj.CoreCompileInputs.cache
+C:\Users\320066605\OneDrive - Philips\Documents\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.csproj.CopyComplete
+C:\Users\320066605\OneDrive - Philips\Documents\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.exe
+C:\Users\320066605\OneDrive - Philips\Documents\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.pdb
+C:\Users\320066605\OneDrive - Philips\Documents\CaseStudy2\ChatBot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.csprojAssemblyReference.cache
+C:\Users\320066605\OneDrive - Philips\Documents\CaseStudy2\ChatBot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientWindow.g.cs
+C:\Users\320066605\OneDrive - Philips\Documents\CaseStudy2\ChatBot\ChatbotClientApp\ChatbotClientApp\obj\Debug\App.g.cs
+C:\Users\320066605\OneDrive - Philips\Documents\CaseStudy2\ChatBot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp_MarkupCompile.cache
+C:\Users\320066605\OneDrive - Philips\Documents\CaseStudy2\ChatBot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp_MarkupCompile.lref
+C:\Users\320066605\OneDrive - Philips\Documents\CaseStudy2\ChatBot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.exe
+C:\Users\320066605\OneDrive - Philips\Documents\CaseStudy2\ChatBot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.pdb
+C:\Users\320066605\OneDrive - Philips\Documents\CaseStudy2\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\ChatbotClientApp.exe.config
+C:\Users\320066605\OneDrive - Philips\Documents\CaseStudy2\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\ChatbotClientApp.exe
+C:\Users\320066605\OneDrive - Philips\Documents\CaseStudy2\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\ChatbotClientApp.pdb
+C:\Users\320066605\OneDrive - Philips\Documents\CaseStudy2\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\320066605\OneDrive - Philips\Documents\CaseStudy2\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\320066605\OneDrive - Philips\Documents\CaseStudy2\ChatBot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientWindow.baml
+C:\Users\320066605\OneDrive - Philips\Documents\CaseStudy2\ChatBot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.g.resources
+C:\Users\320066605\OneDrive - Philips\Documents\CaseStudy2\ChatBot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.Properties.Resources.resources
+C:\Users\320066605\OneDrive - Philips\Documents\CaseStudy2\ChatBot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.csproj.GenerateResource.cache
+C:\Users\320066605\OneDrive - Philips\Documents\CaseStudy2\ChatBot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.csproj.CoreCompileInputs.cache
+C:\Users\320066605\OneDrive - Philips\Documents\CaseStudy2\ChatBot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.csproj.CopyComplete
+C:\Users\320066605\OneDrive - Philips\Documents\CaseStudy2\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\QuestionAnswerViewLib.dll
+C:\Users\320066605\OneDrive - Philips\Documents\CaseStudy2\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\QuestionAnswerViewLib.pdb
+C:\Users\320066605\OneDrive - Philips\Documents\CaseStudy2\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\MVVMUtilityLib.dll
+C:\Users\320066605\OneDrive - Philips\Documents\CaseStudy2\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\QuestionAnswerViewModelLib.dll
+C:\Users\320066605\OneDrive - Philips\Documents\CaseStudy2\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\DataModelLib.dll
+C:\Users\320066605\OneDrive - Philips\Documents\CaseStudy2\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\MVVMUtilityLib.pdb
+C:\Users\320066605\OneDrive - Philips\Documents\CaseStudy2\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\QuestionAnswerViewModelLib.pdb
+C:\Users\320066605\OneDrive - Philips\Documents\CaseStudy2\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\DataModelLib.pdb
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\ChatbotClientApp.exe.config
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\ChatbotClientApp.exe
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\ChatbotClientApp.pdb
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\MVVMUtilityLib.dll
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\Newtonsoft.Json.dll
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\QuestionAnswerViewLib.dll
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\QuestionAnswerViewModelLib.dll
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\DataModelLib.dll
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\MVVMUtilityLib.pdb
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\QuestionAnswerViewLib.pdb
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\QuestionAnswerViewModelLib.pdb
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\Newtonsoft.Json.xml
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\DataModelLib.pdb
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.csprojAssemblyReference.cache
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientWindow.g.cs
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\obj\Debug\App.g.cs
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp_MarkupCompile.cache
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp_MarkupCompile.lref
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientWindow.baml
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.g.resources
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.Properties.Resources.resources
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.csproj.GenerateResource.cache
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.csproj.CoreCompileInputs.cache
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.csproj.CopyComplete
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.exe
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.pdb
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\QuestionAnswerViewLib.dll.config
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\QuestionAnswerViewModelLib.dll.config
+C:\ChatBotServer2\Client\ChatBot\ChatbotClientApp\ChatbotClientApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\ChatbotClientApp.exe.config
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\ChatbotClientApp.exe
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\ChatbotClientApp.pdb
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\MVVMUtilityLib.dll
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\Newtonsoft.Json.dll
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\QuestionAnswerViewLib.dll
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\QuestionAnswerViewModelLib.dll
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\DataModelLib.dll
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\MVVMUtilityLib.pdb
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\QuestionAnswerViewLib.pdb
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\QuestionAnswerViewLib.dll.config
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\QuestionAnswerViewModelLib.pdb
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\QuestionAnswerViewModelLib.dll.config
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\Newtonsoft.Json.xml
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\DataModelLib.pdb
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.csprojAssemblyReference.cache
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientWindow.g.cs
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\obj\Debug\App.g.cs
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp_MarkupCompile.cache
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp_MarkupCompile.lref
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientWindow.baml
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.g.resources
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.Properties.Resources.resources
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.csproj.GenerateResource.cache
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.csproj.CoreCompileInputs.cache
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.csproj.CopyComplete
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.exe
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.pdb
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\InterestsDataModelLib.dll
+C:\ChatBotServer2\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\InterestsDataModelLib.pdb
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\ChatbotClientApp.exe.config
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\ChatbotClientApp.exe
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\ChatbotClientApp.pdb
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\MVVMUtilityLib.dll
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\QuestionAnswerViewLib.dll
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\QuestionAnswerViewModelLib.dll
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\InterestsDataModelLib.dll
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\DataModelLib.dll
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\MVVMUtilityLib.pdb
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\QuestionAnswerViewLib.pdb
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\QuestionAnswerViewLib.dll.config
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\QuestionAnswerViewModelLib.pdb
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\QuestionAnswerViewModelLib.dll.config
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\InterestsDataModelLib.pdb
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\DataModelLib.pdb
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.csprojAssemblyReference.cache
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientWindow.g.cs
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\obj\Debug\App.g.cs
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp_MarkupCompile.cache
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp_MarkupCompile.lref
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientWindow.baml
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.g.resources
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.Properties.Resources.resources
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.csproj.GenerateResource.cache
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.csproj.CopyComplete
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.exe
+C:\Users\320069484\OneDrive - Philips\Bootcamp\Chatbot\ChatbotClientApp\ChatbotClientApp\obj\Debug\ChatbotClientApp.pdb
